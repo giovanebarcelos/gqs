@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SendEmail",
+            "request": "launch",
+            "mainClass": "br.gqs.email.SendEmail",
+            "projectName": "gqs-junit"
+        }
+    ]
+}
